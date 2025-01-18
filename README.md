@@ -1,4 +1,4 @@
-# Simulation of the RPC Detector Array for MuonID  
+# Simulation of the RPC Detector Array for ALICE 3 MuonID  
 
 ## Description  
 This project simulates a Resistive Plate Chamber (RPC) detector array, consisting of 320 RPCs arranged around a cylindrical steel absorber.  
