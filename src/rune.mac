@@ -1,0 +1,254 @@
+
+/gun/momentumAmp 3.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 3.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 4.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 5.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 6.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.2 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.4 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.6 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 7.8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 8 GeV
+/run/beamOn 1000
+/gun/momentumAmp 8 GeV
+/run/beamOn 1000
+

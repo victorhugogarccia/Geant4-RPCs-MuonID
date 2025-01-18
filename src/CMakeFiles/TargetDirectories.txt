@@ -1,0 +1,3 @@
+/home/victor/MID3/src/CMakeFiles/rebuild_cache.dir
+/home/victor/MID3/src/CMakeFiles/edit_cache.dir
+/home/victor/MID3/src/CMakeFiles/MuonID.dir
