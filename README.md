@@ -18,7 +18,7 @@ The simulation is designed to:
 - **Geant4** installed and configured.  
 - A C++ environment (e.g., GCC, Visual Studio).  
 - Optional: A compatible visualization interface with Geant4 to observe the simulation.
-- 
+
 ## Visualization Examples
 Three screenshots are included to demostrate the expected visualization.
 
